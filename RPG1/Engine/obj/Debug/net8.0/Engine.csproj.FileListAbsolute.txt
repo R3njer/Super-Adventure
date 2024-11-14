@@ -1,0 +1,11 @@
+D:\Work\C#\RPG1\Engine\bin\Debug\net8.0\Engine.deps.json
+D:\Work\C#\RPG1\Engine\bin\Debug\net8.0\Engine.dll
+D:\Work\C#\RPG1\Engine\bin\Debug\net8.0\Engine.pdb
+D:\Work\C#\RPG1\Engine\obj\Debug\net8.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\C#\RPG1\Engine\obj\Debug\net8.0\Engine.AssemblyInfoInputs.cache
+D:\Work\C#\RPG1\Engine\obj\Debug\net8.0\Engine.AssemblyInfo.cs
+D:\Work\C#\RPG1\Engine\obj\Debug\net8.0\Engine.csproj.CoreCompileInputs.cache
+D:\Work\C#\RPG1\Engine\obj\Debug\net8.0\Engine.dll
+D:\Work\C#\RPG1\Engine\obj\Debug\net8.0\refint\Engine.dll
+D:\Work\C#\RPG1\Engine\obj\Debug\net8.0\Engine.pdb
+D:\Work\C#\RPG1\Engine\obj\Debug\net8.0\ref\Engine.dll
